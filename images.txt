@@ -3,3 +3,5 @@ mysql:8.0.37
 redis:6.2.14
 halohub/halo:2.18
 amuguelove/weixin-md:1.0.0
+portainer/portainer-ce
+portainer/portainer:linux-arm64-1.21.0
